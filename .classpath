@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry excluding="binaries/" kind="src" path="drools-distribution-6.5.0.Final"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="drools-distribution-6.5.0.Final/binaries">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/classes"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/activation-1.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/antlr-2.7.7.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/antlr-runtime-3.1.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/asm4-4.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/bcprov-jdk15-140.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/bridj-0.6.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/collections-generic-4.01.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/colt-1.2.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/concurrent-1.3.4.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/core.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/de.huxhorn.sulky.3rdparty.jlayer-1.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/dropbox-core-sdk-1.7.6.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/dx-1.7.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/filters-2.0.235-1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/gluegen-rt-1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jackson-core-2.2.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jade.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-applib-bdi-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-applications-bdi-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-applications-bdibpmn-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-applications-bdiv3-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-applications-bpmn-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-applications-gpmn-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-applications-micro-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-bridge-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-commons-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-javaparser-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-kernel-application-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-kernel-base-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-kernel-bdi-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-kernel-bdibpmn-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-kernel-bdiv3-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-kernel-bpmn-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-kernel-component-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-kernel-extension-agr-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-kernel-extension-envsupport-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-kernel-extension-envsupport-opengl-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-kernel-gpmn-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-kernel-micro-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-model-bpmn-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-nuggets-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-platform-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-platform-standalone-launch-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-rules-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-rules-applications-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-rules-eca-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-rules-tools-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-runtimetools-swing-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-tools-base-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-tools-base-swing-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-tools-bdi-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-tools-bpmn-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-tools-comanalyzer-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jadex-xml-2.5-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/Jama-1.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/janino-2.5.10.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/javassist-3.12.1.GA.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jcalendar-1.3.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jcodec-0.1.5.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jcommon-1.0.15.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jfreechart-1.0.12.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jogl-1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jung-algorithms-2.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jung-api-2.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jung-graph-impl-2.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/jung-visualization-2.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/junit-3.8.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/mail-1.4.5.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/mysql-connector-java-8.0.29.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/opencsv-3.8.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/slf4j-api-1.7.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/slf4j-simple-1.7.21.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/smack-3.1.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/smackx-3.1.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/stringtemplate-3.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/tools.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/webcam-capture-0.3.9.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/lib/xpp3-1.1.4c.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/jade.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/Jama-1.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/kie-api-7.0.0.Final.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/opencsv-3.8.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/slf4j-simple-1.7.21.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/drools-distribution-6.5.0.Final/antlr-runtime.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/drools-distribution-6.5.0.Final/drools-compiler.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/drools-distribution-6.5.0.Final/drools-core.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/drools-distribution-6.5.0.Final/drools-decisiontables.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/drools-distribution-6.5.0.Final/drools-jsr94.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aldohenrique/Dropbox/workspace/Web-MASCloud/drools-distribution-6.5.0.Final/drools-templates.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.jboss.ide.eclipse.as.core.server.runtime.runtimeTarget/WildFly 21.0 Runtime">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="target/generated-sources/annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="target/generated-test-sources/test-annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

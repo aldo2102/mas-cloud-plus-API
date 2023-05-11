@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.1.1">
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\DroolsBenchmarkExamplesApp.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\manners\Chosen.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\manners\Context.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\manners\Count.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\manners\Guest.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\manners\Hobby.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\manners\LastSeat.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\manners\MannersBenchmark.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\manners\Path.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\manners\Seating.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\manners\Sex.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\waltz\Edge.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\waltz\Junction.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\waltz\Line.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\waltz\Stage.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\waltz\WaltzBenchmark.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\waltz\WaltzUtil.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\waltzdb\Edge.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\waltzdb\EdgeLabel.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\waltzdb\Illegal.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\waltzdb\Junction.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\waltzdb\Label.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\waltzdb\Line.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\waltzdb\Stage.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\benchmark\waltzdb\WaltzDbBenchmark.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\backwardchaining\HouseOfDoomMain.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\backwardchaining\Location.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\banking\Account.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\banking\AllocatedCashflow.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\banking\BankingExample1.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\banking\BankingExample2.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\banking\BankingExample3.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\banking\BankingExample4.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\banking\BankingExample5.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\banking\BankingExample6.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\banking\BankingExamplesApp.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\banking\Cashflow.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\banking\RuleRunner.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\banking\SimpleDate.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\banking\TypedCashflow.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\birdsfly\Bird.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\birdsfly\BirdsFlyExample.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\birdsfly\Broken.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\birdsfly\Fly.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\birdsfly\Rocket.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\buspass\AdultBusPass.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\buspass\BadBehaviour.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\buspass\BusPass.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\buspass\BussPassBadExample.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\buspass\BussPassGoodExample.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\buspass\BussPassJTMSExample.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\buspass\ChildBusPass.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\buspass\IsAdult.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\buspass\IsChild.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\buspass\Person.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\cashflow\Account.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\cashflow\AccountPeriod.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\cashflow\CashFlow.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\cashflow\CashFlowMain.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\cashflow\CashFlowType.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\circularTms\CircularTmsExample.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\datadriventemplate\DataDrivenTemplateExample.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\decisiontable\Driver.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\decisiontable\Policy.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\decisiontable\PricingRuleDTExample.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\decisiontable\PricingRuleTemplateExample.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\diagnostics\Answer.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\diagnostics\DiagnosticsExample.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\diagnostics\Question.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\diagnostics\Solution.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\diagnostics\WontStart.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\DroolsExamplesApp.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\fibonacci\FibonacciExample.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\fire\Alarm.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\fire\Fire.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\fire\FireExample.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\fire\FireLogicalExample.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\fire\Room.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\fire\Sprinkler.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\golfing\GolfingExample.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\helloworld\HelloWorldExample.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\honestpolitician\HonestPoliticianExample.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\honestpolitician\Hope.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\honestpolitician\Politician.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\performance\PerformanceExample.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\petstore\PetStoreExample.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\shopping\ShoppingExample.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\state\State.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\state\StateExampleUsingAgendaGroup.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\state\StateExampleUsingSalience.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\sudoku\Cell.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\sudoku\CellCol.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\sudoku\CellFile.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\sudoku\CellGroup.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\sudoku\CellRow.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\sudoku\CellSqr.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\sudoku\Counter.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\sudoku\SetOfNine.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\sudoku\Setting.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\sudoku\Stepping.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\sudoku\Sudoku.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\sudoku\SudokuExample.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\sudoku\swing\AbstractSudokuGridModel.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\sudoku\swing\SudokuGridEvent.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\sudoku\swing\SudokuGridListener.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\sudoku\swing\SudokuGridModel.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\sudoku\swing\SudokuGridSamples.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\sudoku\swing\SudokuGridView.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\templates\ActivityType.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\templates\Cheese.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\templates\FeeScheduleRule.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\templates\FeeScheduleType.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\templates\FeeType.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\templates\Person.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\templates\ProductType.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\templates\SimpleRuleTemplateExample.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\traits\Scholar.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\traits\ScholarImpl.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\traits\TraitExample.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\troubleticket\Customer.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\troubleticket\Ticket.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\troubleticket\TroubleTicketExample.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\troubleticket\TroubleTicketExampleWithDSL.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\troubleticket\TroubleTicketExampleWithDT.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\workitemconsequence\WorkItemConsequenceExample1.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\examples\workitemconsequence\WorkItemConsequenceExample2.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\Action.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\AdventureFrame.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\Counter.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\GameEngine.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\Character.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\Command.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\Door.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\DropCommand.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\DropEvent.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\EnterEvent.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\ExitEvent.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\GameEvent.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\GiveCommand.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\GiveEvent.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\Holding.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\Item.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\Key.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\Location.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\LockStatus.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\LookCommand.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\MoveCommand.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\PickupCommand.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\PickupEvent.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\Room.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\SearchCommand.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\Thing.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\model\UseCommand.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\Request.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\Response.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\TextAdventure.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\adventures\UserSession.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\GameConfiguration.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\GameFrame.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\GamePanel.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\GameUI.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\invaders\Bullet.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\invaders\FPSTimer.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\invaders\Invader.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\invaders\Invaders1Main.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\invaders\Invaders2Main.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\invaders\Invaders3Main.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\invaders\Invaders4Main.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\invaders\Invaders5Main.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\invaders\Invaders6Main.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\invaders\InvadersConfiguration.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\invaders\Ship.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\invaders\Unit.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\KeyPressed.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\numberguess\Game.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\numberguess\GameRules.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\numberguess\Guess.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\numberguess\NumberGuessMain.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\numberguess\RandomNumber.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\pong\Ball.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\pong\Bat.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\pong\Collision.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\pong\CollisionType.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\pong\Player.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\pong\PlayerId.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\pong\PointWin.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\pong\PongConfiguration.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\pong\PongGame.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\pong\PongMain.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\pong\PongUI.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\Run.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\Arrow.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\Cell.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\ClimbCommand.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\Command.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\Direction.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\EndEvent.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\EndGameEvent.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\EndNewTurnEvent.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\FeelBreeze.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\FeelBump.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\Gold.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\GoldWin.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\GrabCommand.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\HearScream.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\Hero.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\Init.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\Move.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\MoveCommand.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\MoveEvent.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\Pit.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\PitDeath.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\Play.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\Reset.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\Score.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\SeeGlitter.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\Sensor.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\SensorArray.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\ShootCommand.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\SmellStench.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\Start.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\StartEvent.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\StartGameEvent.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\StartNewTurnEvent.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\Thing.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\view\GameUI.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\view\GameView.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\Wumpus.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\WumpusDeath.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\WumpusWorldConfiguration.java">
+</file>
+<file name="C:\Users\aldoh\Dropbox\workspace\MAS-Cloud\drools-distribution-6.5.0.Final\examples\sources\src\main\java\org\drools\games\wumpus\WumpusWorldMain.java">
+</file>
+</checkstyle>
